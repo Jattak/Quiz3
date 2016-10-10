@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class Quiz3Testing {
+public class TriangleTest {
 
 	@Test
 	public void test() {
